@@ -1,0 +1,5 @@
+C:\zMinhNhatLe\zStudy\BotFrameWorkStudy\hello1nultbot-src
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=EchoBotWithCounter
+--content-root=C:\zMinhNhatLe\zStudy\BotFrameWorkStudy\hello1nultbot-src
+--file=
