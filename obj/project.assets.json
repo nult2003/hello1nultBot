@@ -12601,11 +12601,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\zMinhNhatLe\\zStudy\\BotFrameWorkStudy\\hello1nultbot-src\\EchoBotWithCounter.csproj",
+      "projectUniqueName": "C:\\zMinhNhatLe\\zStudy\\BotFrameWorkStudy\\hello1nultBot\\EchoBotWithCounter.csproj",
       "projectName": "EchoBotWithCounter",
-      "projectPath": "C:\\zMinhNhatLe\\zStudy\\BotFrameWorkStudy\\hello1nultbot-src\\EchoBotWithCounter.csproj",
+      "projectPath": "C:\\zMinhNhatLe\\zStudy\\BotFrameWorkStudy\\hello1nultBot\\EchoBotWithCounter.csproj",
       "packagesPath": "C:\\Users\\bhl731\\.nuget\\packages\\",
-      "outputPath": "C:\\zMinhNhatLe\\zStudy\\BotFrameWorkStudy\\hello1nultbot-src\\obj\\",
+      "outputPath": "C:\\zMinhNhatLe\\zStudy\\BotFrameWorkStudy\\hello1nultBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
